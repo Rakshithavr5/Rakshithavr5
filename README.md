@@ -1,80 +1,32 @@
-# Hi there, I'm Rakshitha V R 👋
+# Hi, I'm Rakshitha V R
 
-## 💫 Welcome to my GitHub
+B.Tech Information Technology Student | Software Developer | Full Stack Web Development
+## About Me
 
-I'm a B.Tech Information Technology student at Garden City University with an interest in software development, web technologies, and data science. I enjoy building practical applications and continuously improving my technical skills through hands-on projects.
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 B.Tech in Information Technology
-- 💻 Interested in Java, Python, and Full Stack Web Development
+- 🎓 B.Tech Information Technology, Garden City University
+- 💻 Interested in Software Development and Web Development
 - 🌱 Currently learning React.js, Node.js, and Data Science
-- 🚀 Enjoy building desktop and web applications
-- 🤝 Open to learning, collaboration, and new opportunities
+- 🎯 Seeking internship opportunities
+## Technical Skills
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Projects
 
-## 🛠️ Tech Stack
+- Online Quiz Web Application
+- Face Recognition System using PCA & ANN
+- Classic Online Shop
+## GitHub Stats
 
-**Languages**
-- Java
-- Python
-- JavaScript
-- C
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakshithavr5&show_icons=true&theme=github_dark)
 
-**Web**
-- HTML
-- CSS
-- Tailwind CSS
-- React.js
-- Node.js
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshithavr5&layout=compact&theme=github_dark)
+## Connect
 
-**Database**
-- MySQL
-- SQL
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Pandas
-- NumPy
-- Matplotlib
-
----
-
-## 🚀 Featured Projects
-
-### 📝 Online Quiz Web Application
-A Java Swing and MySQL desktop application with user login, category-based quizzes, timer, leaderboard, and score management.
-
-### 😊 Face Recognition System
-Built using Python, OpenCV, PCA, and ANN for recognizing known faces from image datasets.
-
-### 🛒 E-Commerce Website
-Responsive shopping website developed using HTML, CSS, JavaScript, and Tailwind CSS.
-
----
-
-## 📜 Certifications
-
-- Google – Agile Project Management
-- Cisco Networking Academy – Data Science Essentials with Python
-- DeepLearning.AI – AI For Everyone
-- Intern Forte – Full Stack Web Development
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **rakshithavr3@gmail.com**
-
-💼 LinkedIn: **linkedin.com/in/rakshitha-v-r-3aa1ab311**
-
-🐙 GitHub: **github.com/Rakshithavr5**
-
----
-
-⭐ Thanks for visiting my profile!
+- LinkedIn: linkedin.com/in/rakshitha-v-r-3aa1ab311
+- Email: rakshithavr3@gmail.com
