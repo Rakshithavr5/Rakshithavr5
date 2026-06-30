@@ -1,12 +1,15 @@
-# Hi, I'm Rakshitha V R
+                              # Hi, I'm Rakshitha V R
 
-B.Tech Information Technology Student | Software Developer | Full Stack Web Development
+Software Developer | Full Stack Developer | B.Tech Information Technology Student
 ## About Me
 
-- 🎓 B.Tech Information Technology, Garden City University
-- 💻 Interested in Software Development and Web Development
-- 🌱 Currently learning React.js, Node.js, and Data Science
-- 🎯 Seeking internship opportunities
+- ## 👨‍💻 About Me
+
+- 🎓 B.Tech Information Technology student at Garden City University, Bengaluru
+- 💻 Passionate about software development and creating practical applications
+- 🌐 Interested in Full Stack Development, Data Science, and AI
+- 🚀 Enjoy solving real-world problems through clean and efficient code
+- 📚 Continuously expanding my technical skills by building projects
 ## Technical Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
