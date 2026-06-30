@@ -1,4 +1,4 @@
-  # Hi, I'm Rakshitha V R 👋
+  # Hi, I'm Rakshitha V R 
 
 **Software Developer | Full Stack Developer | B.Tech Information Technology Student**
 
