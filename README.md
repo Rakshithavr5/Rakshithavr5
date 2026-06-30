@@ -2,7 +2,6 @@
 
 **Software Developer | Full Stack Developer | B.Tech Information Technology Student**
 
----
 
 ## 👨‍💻 About Me
 
@@ -11,8 +10,6 @@
 - 🌐 Interested in Full Stack Development, Data Science, and AI
 - 🚀 Enjoy solving real-world problems through clean and efficient code
 - 📚 Continuously expanding my technical skills by building projects
-
----
 
 ## 💻 Technical Skills
 
@@ -35,14 +32,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 📝 **Online Quiz Web Application** — Java Swing, JDBC, MySQL
-- 😊 **Face Recognition System Using PCA & ANN** — Python, OpenCV, Scikit-learn
-- 🛒 **Classic Online Shop** — HTML, CSS, JavaScript, Tailwind CSS
-
----
-
 ## 📊 GitHub Stats
 
 > **Note:** If the cards don't load, the GitHub Stats service may be temporarily unavailable.
@@ -50,8 +39,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakshithavr5&show_icons=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshithavr5&layout=compact&theme=transparent)
-
----
 
 ## 📫 Connect With Me
 
