@@ -23,7 +23,11 @@ B.Tech Information Technology Student | Software Developer | Full Stack Web Deve
 - Classic Online Shop
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakshithavr5&show_icons=true&theme=github_dark)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakshithavr5&show_icons=true&theme=transparent&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshithavr5&layout=compact&theme=transparent&cache_seconds=86400)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshithavr5&layout=compact&theme=github_dark)
 ## Connect
